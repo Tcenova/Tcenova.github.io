@@ -71,7 +71,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  #rss: true
   email: "tom.cenova@gmail.com"
   #facebook: daattali
   github: Tcenova
@@ -104,7 +104,7 @@ url-pretty: "tcenova.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-133234288-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
