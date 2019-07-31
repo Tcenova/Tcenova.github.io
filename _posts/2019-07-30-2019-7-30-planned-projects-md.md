@@ -10,4 +10,4 @@ Once I finsh up my thesis I have many projects in the planning stages. Almost al
 * DS3/DS4 wireless to PS2/PS1 adapter.
 * PS2 Digital RGB video to HDMI.
 * Smart BLE 5 TV/Universal remote. 
-* New desktop
+* New desktop (Or at least a refresh of OS/maybe GPU)
